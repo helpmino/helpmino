@@ -8,7 +8,7 @@ sidebar:
 
 ![Infografika Helpmino: pravidlo procházky po jídle v 6 bodech](./rule-walk-after-meal.avif)
 
-**Pravidlo procházky po jídle propojuje vyváženou stravu třikrát denně s krátkou svižnou chůzí bezprostředně po dojedení**, čímž proměňuje přijatou glukózu v okamžité palivo pro svaly místo tukových zásob, únavy a výkyvů energie.
+**Pravidlo procházky po jídle propojuje vyváženou stravu třikrát denně s krátkou svižnou chůzí bezprostředně po dojedení.** Pracující svaly spotřebují část glukózy z jídla, takže glykemická špička po jídle bývá nižší, což může pomoci omezit únavu a výkyvy energie.
 
 Co kdyby nejúčinnější nástroj pro bystrou hlavu, štíhlý pas a zdravé cévy nestál ani korunu a zabral jen deset minut po obědě? 🚶‍♂️✨ Infografika od komunity **Helpmino** vystihuje jednoduchý metabolický princip: nejde jen o to, co sníte, ale *co uděláte hned potom*. Když spojíte poctivý talíř bez neustálého uzobávání s přirozeným pohybem, zapnete v těle biologický mechanismus, který srovná hladinu krevního cukru, ušetří slinivku a dodá čistou energii do další práce.
 
@@ -16,7 +16,7 @@ Co kdyby nejúčinnější nástroj pro bystrou hlavu, štíhlý pas a zdravé c
 
 *Jídlo není důvod k odpočinku na gauči – je to natankování paliva, které si říká o nastartování motoru.*
 
-Většina lidí zažívá po obědě známý scénář: těžká víčka, mlha v hlavě a chuť na kávu se zákuskem. Příčinou je prudký nárůst krevního cukru (glukózová špička) následovaný jeho strmým pádem. Infografika ukazuje, že **struktura dne (3 plnohodnotná jídla)** a **okamžitá odezva (svižná chůze)** tento propad vůbec nedovolí spustit.
+Většina lidí zažívá po obědě známý scénář: těžká víčka, mlha v hlavě a chuť na kávu se zákuskem. Příčinou je prudký nárůst krevního cukru (glukózová špička) následovaný jeho strmým pádem. Infografika ukazuje, že **struktura dne (3 plnohodnotná jídla)** a **okamžitá odezva (svižná chůze)** mohou tento propad zmírnit.
 
 ## 🖼️ Rozbor 6 bodů infografiky
 
@@ -27,7 +27,7 @@ Každý obrázek v infografice představuje jeden článek řetězu – první t
 | **1. Kalorický příjem jen 3× denně** 🍽️ | Snídaně, oběd, večeře; žádné slazené nápoje ani uzobávání mezi jídly. | Trávicí trakt i slinivka dostanou prostor k odpočinku a inzulin nezůstává chronicky zvýšený. |
 | **2. Kvalitní bílkoviny, tuky a vláknina** 🥑 | Talíř z celistvých surovin (losos, avokádo, ořechy, brokolice). | Zpomaluje vyprazdňování žaludku a vstřebávání sacharidů, glukóza teče do krve pozvolna. |
 | **3. Svižnější chůze v kuse** 👟 | Souvislá procházka venku krátce po dojedení. | Aktivované svaly nasají cirkulující krevní cukr dřív, než tělo musí řešit vysokou dávku inzulinu. |
-| **4. Cukr se neukládá do tuku** 🚫 | Glukóza míří do svalových buněk místo do zásob v oblasti břicha. | Nízká hladina inzulinu a okamžitý výdej brání přeměně přebytku na viscerální tuk. |
+| **4. Cukr se neukládá do tuku** 🚫 | Pracující svaly spotřebují část glukózy z jídla, takže jí v krvi zůstává méně. | Nižší glykemická a inzulinová špička může omezit ukládání přebytku do tuku; chůze ale ukládání tuku úplně nezabrání. |
 | **5. Žádná únava** ⚡ | Odpadá poobědový útlum („gastrokóma“) a večerní vyčerpání. | Vyrovnaná glykemická křivka udržuje stabilní bdělost po celé odpoledne. |
 | **6. Chuť do práce** 💡 | Jasná mysl, soustředění, kreativita a vnitřní motivace tvořit. | Mozek dostává plynulý přísun energie a prokrvení z chůze podporuje pozornost. |
 
@@ -56,7 +56,7 @@ Infografika netvoří jen seznam bodů, ale **uzavřený samoudržitelný kruh (
         [2. Svižná procházka 10–15 min v kuse] 🚶‍♂️
                             │
                             ▼
-   [3. Svaly spálí glukózu -> nízký inzulin, žádný tuk] 🔥
+   [3. Svaly spotřebují glukózu -> nižší špička cukru i inzulinu] 🔥
                             │
                             ▼
        [4. Stabilní krevní cukr -> ŽÁDNÁ ÚNAVA] ⚡
@@ -65,7 +65,7 @@ Infografika netvoří jen seznam bodů, ale **uzavřený samoudržitelný kruh (
    [5. Chuť do práce, nižší stres, kvalitní spánek] 💡😴
                             │
                             ▼
-   [6. Žádný vlčí hlad ani chutě na sladké brčka/svačinky] 🚫🥤
+   [6. Žádný vlčí hlad ani chutě na slazené nápoje/svačinky] 🚫🥤
                             │
                             └──────► (Zpět na bod 1 u dalšího jídla)
 ```
@@ -96,7 +96,7 @@ Oproti tomu **začarovaný kruh sedavosti** vypadá přesně opačně:
 
 ## 🔗 Přímé a nepřímé souvislosti
 
-| Oblast | Přímá souvislost (do 90 minut) | Nepřímá souvislost (týdny až roky) |
+| Oblast | Přímá souvislost (do 90 minut) | Možný nepřímý přínos (týdny až roky) |
 |---|---|---|
 | **Metabolismus** | Zploštění glykemické a inzulinové křivky po jídle. | Vyšší inzulinová citlivost, snazší udržení váhy bez počítání kalorií. |
 | **Trávení** | Rychlejší posun potravy, méně pocitu těžkosti a plynatosti. | Zdravější střevní mikrobiom a klidnější trávení bez refluxu. |
@@ -107,8 +107,8 @@ Oproti tomu **začarovaný kruh sedavosti** vypadá přesně opačně:
 
 *Nejlepší biohacking je ten, který dělaly už naše babičky přirozeně.*
 
-- **Dlouhověkost (longevity):** Opakované cukrové špičky vedou ke glykaci, tedy nabalování cukru na bílkoviny v cévách, orgánech i kůži ([Lékárna.cz](https://www.lekarna.cz/clanek/jak-si-hlidat-dlouhy-cukr-pri-diabetu-typu-1-i-2/)). Tlumení výkyvů chrání slinivku, mitochondrie i mozek a oddaluje cukrovku 2. typu a kardiovaskulární nemoci.
-- **Pravidelnost nad objemem:** Výzkumy zmiňované v přehledu [UCLA Health](https://www.uclahealth.org/news/article/taking-walk-after-eating-can-help-with-blood-sugar-control) i v diabetologických studiích naznačují, že tři 10minutové procházky po jídlech snižují celodenní glykémii lépe než jedna 45minutová procházka ráno. Jídlo 3× denně tu funguje jako spolehlivá kotva.
+- **Dlouhověkost (longevity):** Opakované cukrové špičky vedou ke glykaci, tedy nabalování cukru na bílkoviny v cévách, orgánech i kůži ([Lékárna.cz](https://www.lekarna.cz/clanek/jak-si-hlidat-dlouhy-cukr-pri-diabetu-typu-1-i-2/)). Mírnější výkyvy glykémie mohou tuto zátěž snižovat; že krátké procházky po jídle dlouhodobě chrání orgány nebo oddalují cukrovku 2. typu či kardiovaskulární nemoci, ale uvedené zdroje nedokládají.
+- **Pravidelnost nad objemem:** Ve [studii DiPietro a kol. (Diabetes Care, 2013)](https://pubmed.ncbi.nlm.nih.gov/23761134/) u 10 neaktivních lidí nad 60 let s rizikem poruchy glukózové tolerance zlepšily tři 15minutové procházky po jídlech celodenní glykémii podobně jako 45 minut souvislé chůze a glykémii během 3 hodin po večeři snížily výrazně více než 45minutová chůze ráno nebo odpoledne. Ve [studii Reynolds a kol. (Diabetologia, 2016)](https://pubmed.ncbi.nlm.nih.gov/27747394/) u 41 dospělých s cukrovkou 2. typu snížila rada chodit 10 minut po každém hlavním jídle glykémii po jídle více než rada chodit 30 minut denně bez určení času. Podle přehledu [UCLA Health](https://www.uclahealth.org/news/article/taking-walk-after-eating-can-help-with-blood-sugar-control) měla měřitelný účinek i pětiminutová procházka po jídle. Jídlo 3× denně tu funguje jako spolehlivá kotva.
 - **Osobní udržitelnost:** Nepotřebujete sportovní oblečení, sprchu ani hodinu volného času. Svižná chůze nezvyšuje stres ani nevyvolává vlčí hlad jako vyčerpávající kardio.
 - **Ekologie:** Vyřazení slazených nápojů a balených svačinek mezi jídly snižuje spotřebu jednorázových plastů a průmyslově zpracovaných potravin. Pochůzky pěšky místo autem šetří emise v okolí.
 - **Finanční a časová úspora:** Odpadají denní útraty za limonády, energetické nápoje, sladké tyčinky a odpolední kávy kupované z únavy.
@@ -118,7 +118,7 @@ Oproti tomu **začarovaný kruh sedavosti** vypadá přesně opačně:
 *Nepokoušejte se změnit celý život zítra ráno – začněte dnes po největším jídle dne.*
 
 1. **Složte si sytý talíř.** Každé ze 3 hlavních jídel postavte na zdroji bílkovin (vejce, ryba, maso, luštěniny, tvaroh), přidejte hrst až dvě zeleniny a přirozený tuk (olivový olej, avokádo, ořechy). Mezi jídly pijte čistou vodu, neslazený čaj nebo černou kávu.
-2. **Trefujte zlaté časové okno (0–30 minut po jídle).** [Studie v databázi PubMed Central](https://pmc.ncbi.nlm.nih.gov/articles/PMC8912639/) uvádí, že pohyb zahájený dříve, než hladina cukru v krvi dosáhne maxima (kolem 60. minuty), srazí glykemickou špičku nejúčinněji.
+2. **Vyrazte krátce po jídle.** Ve [studii Bellini a kol. (Nutrients, 2022)](https://pmc.ncbi.nlm.nih.gov/articles/PMC8912639/) u 21 zdravých mladých dobrovolníků výrazně snížila 30minutová svižná chůze po jídle glykemickou špičku, a to po jídlech s různým množstvím sacharidů i po smíšeném jídle a sladkém nápoji.
 3. **Držte svižné, ale konverzační tempo.** Jděte **10 až 15 minut** (3× denně = 30–45 minut chůze celkem). Správné tempo poznáte tak, že se mírně zahřejete, dýcháte hlouběji, ale stále plynule mluvíte.
 4. **Mějte záložní plán.** Když prší nebo nemůžete opustit budovu, stačí 5 minut chůze po schodech a chodbách, úklid kuchyně nebo 20–30 dřepů s vlastní vahou u stolu.
 5. **Škálujte postupně.** První týden zaveďte 10minutovou procházku jen po jednom jídle (nejlépe po obědě). Jakmile se z ní stane rituál, přidejte další dvě jídla.
@@ -131,7 +131,9 @@ Oproti tomu **začarovaný kruh sedavosti** vypadá přesně opačně:
 
 - [*A walk after eating can change how the brain and body respond to food*](https://www.nationalgeographic.com/health/article/walking-after-meals-health-benefits) – National Geographic
 - [*Taking a walk after eating can help with blood sugar control*](https://www.uclahealth.org/news/article/taking-walk-after-eating-can-help-with-blood-sugar-control) – UCLA Health
-- [*The Effects of Postprandial Walking on the Glucose Response*](https://pmc.ncbi.nlm.nih.gov/articles/PMC8912639/) – NIH / PubMed Central
+- [*The Effects of Postprandial Walking on the Glucose Response after Meals with Different Characteristics*](https://pmc.ncbi.nlm.nih.gov/articles/PMC8912639/) – Bellini a kol., Nutrients 2022 (PubMed Central)
+- [*Three 15-min bouts of moderate postmeal walking significantly improves 24-h glycemic control in older people at risk for impaired glucose tolerance*](https://pubmed.ncbi.nlm.nih.gov/23761134/) – DiPietro a kol., Diabetes Care 2013 (PubMed)
+- [*Advice to walk after meals is more effective for lowering postprandial glycaemia in type 2 diabetes mellitus than advice that does not specify timing*](https://pubmed.ncbi.nlm.nih.gov/27747394/) – Reynolds a kol., Diabetologia 2016 (PubMed)
 - [*Just 2 minutes of walking after eating can help blood sugar, study says*](https://www.ncbi.nlm.nih.gov/search/research-news/17034/) – NIH
 - [*Walking After Eating and Your Blood Sugar*](https://health.clevelandclinic.org/walking-after-eating) – Cleveland Clinic Health Essentials
 - [*What Happens to Blood Sugar When You Walk After Dinner*](https://www.verywellhealth.com/what-happens-to-your-blood-sugar-when-you-walk-after-dinner-12008854) – Verywell Health
