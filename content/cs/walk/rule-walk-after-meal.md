@@ -123,9 +123,7 @@ Oproti tomu **začarovaný kruh sedavosti** vypadá přesně opačně:
 4. **Mějte záložní plán.** Když prší nebo nemůžete opustit budovu, stačí 5 minut chůze po schodech a chodbách, úklid kuchyně nebo 20–30 dřepů s vlastní vahou u stolu.
 5. **Škálujte postupně.** První týden zaveďte 10minutovou procházku jen po jednom jídle (nejlépe po obědě). Jakmile se z ní stane rituál, přidejte další dvě jídla.
 
-Pokud napíšete, jak vypadá váš **běžný pracovní den** (kancelář, home office, směny) a **nejčastější jídla**, lze režim přizpůsobit vašemu rozvrhu.
-
-*Pouze pro informační účely. Pokud potřebujete zdravotní radu nebo diagnózu, obraťte se na odborníka. Odpovědi od AI můžou obsahovat chyby.*
+*Pouze pro informační účely. Pokud potřebujete zdravotní radu nebo diagnózu, obraťte se na odborníka.*
 
 ---
 

@@ -123,9 +123,7 @@ The **vicious circle of sitting**, by contrast, looks exactly the opposite:
 4. **Have a backup plan.** When it rains or you can't leave the building, 5 minutes of walking up stairs and along corridors, tidying the kitchen, or 20–30 bodyweight squats at your desk is enough.
 5. **Scale up gradually.** In the first week, add a 10-minute walk after just one meal (ideally lunch). Once it becomes a ritual, add the other two meals.
 
-If you describe your **typical workday** (office, home office, shifts) and your **most common meals**, the routine can be adapted to your schedule.
-
-*For informational purposes only. If you need medical advice or a diagnosis, consult a professional. AI responses can contain errors.*
+*For informational purposes only. If you need medical advice or a diagnosis, consult a professional.*
 
 ---
 
