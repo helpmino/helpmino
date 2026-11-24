@@ -118,7 +118,7 @@ The **vicious circle of sitting**, by contrast, looks exactly the opposite:
 *Don't try to change your whole life tomorrow morning – start today after the biggest meal of the day.*
 
 1. **Build a filling plate.** Base each of your 3 main meals on a source of protein (eggs, fish, meat, legumes, cottage cheese), add one or two handfuls of vegetables and a natural fat (olive oil, avocado, nuts). Between meals, drink plain water, unsweetened tea, or black coffee.
-2. **Hit the golden time window (0–30 minutes after eating).** Ideally, head out within 30 minutes of your last bite. [A study in PubMed Central](https://pmc.ncbi.nlm.nih.gov/articles/PMC8912639/) reports that movement started before blood sugar peaks (around the 60-minute mark) cuts the glucose spike most effectively.
+2. **Hit the golden time window (0–30 minutes after eating).** [A study in PubMed Central](https://pmc.ncbi.nlm.nih.gov/articles/PMC8912639/) reports that movement started before blood sugar peaks (around the 60-minute mark) cuts the glucose spike most effectively.
 3. **Keep a brisk but conversational pace.** Walk for **10 to 15 minutes** (3 times a day = 30–45 minutes of walking in total). You know the pace is right when you warm up slightly and breathe more deeply, but can still talk smoothly.
 4. **Have a backup plan.** When it rains or you can't leave the building, 5 minutes of walking up stairs and along corridors, tidying the kitchen, or 20–30 bodyweight squats at your desk is enough.
 5. **Scale up gradually.** In the first week, add a 10-minute walk after just one meal (ideally lunch). Once it becomes a ritual, add the other two meals.

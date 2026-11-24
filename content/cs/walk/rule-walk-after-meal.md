@@ -118,7 +118,7 @@ Oproti tomu **začarovaný kruh sedavosti** vypadá přesně opačně:
 *Nepokoušejte se změnit celý život zítra ráno – začněte dnes po největším jídle dne.*
 
 1. **Složte si sytý talíř.** Každé ze 3 hlavních jídel postavte na zdroji bílkovin (vejce, ryba, maso, luštěniny, tvaroh), přidejte hrst až dvě zeleniny a přirozený tuk (olivový olej, avokádo, ořechy). Mezi jídly pijte čistou vodu, neslazený čaj nebo černou kávu.
-2. **Trefujte zlaté časové okno (0–30 minut po jídle).** Vyrazte ideálně do 30 minut od posledního sousta. [Studie v databázi PubMed Central](https://pmc.ncbi.nlm.nih.gov/articles/PMC8912639/) uvádí, že pohyb zahájený dříve, než hladina cukru v krvi dosáhne maxima (kolem 60. minuty), srazí glykemickou špičku nejúčinněji.
+2. **Trefujte zlaté časové okno (0–30 minut po jídle).** [Studie v databázi PubMed Central](https://pmc.ncbi.nlm.nih.gov/articles/PMC8912639/) uvádí, že pohyb zahájený dříve, než hladina cukru v krvi dosáhne maxima (kolem 60. minuty), srazí glykemickou špičku nejúčinněji.
 3. **Držte svižné, ale konverzační tempo.** Jděte **10 až 15 minut** (3× denně = 30–45 minut chůze celkem). Správné tempo poznáte tak, že se mírně zahřejete, dýcháte hlouběji, ale stále plynule mluvíte.
 4. **Mějte záložní plán.** Když prší nebo nemůžete opustit budovu, stačí 5 minut chůze po schodech a chodbách, úklid kuchyně nebo 20–30 dřepů s vlastní vahou u stolu.
 5. **Škálujte postupně.** První týden zaveďte 10minutovou procházku jen po jednom jídle (nejlépe po obědě). Jakmile se z ní stane rituál, přidejte další dvě jídla.
